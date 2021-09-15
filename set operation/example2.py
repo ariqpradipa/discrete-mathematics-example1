@@ -1,5 +1,5 @@
-#
 # check the input prime number or not
+
 def func():
 
     n = int(input("Input a number you want to check whether it is prime or not: "))
